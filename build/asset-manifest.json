@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.854bc733.chunk.css",
+    "main.js": "/static/js/main.f253ab0c.chunk.js",
+    "main.js.map": "/static/js/main.f253ab0c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ce66f78c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ce66f78c.js.map",
+    "static/js/2.28d83cc5.chunk.js": "/static/js/2.28d83cc5.chunk.js",
+    "static/js/2.28d83cc5.chunk.js.map": "/static/js/2.28d83cc5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.854bc733.chunk.css.map": "/static/css/main.854bc733.chunk.css.map",
+    "static/js/2.28d83cc5.chunk.js.LICENSE.txt": "/static/js/2.28d83cc5.chunk.js.LICENSE.txt",
+    "static/media/educat.2d2f7eaa.png": "/static/media/educat.2d2f7eaa.png",
+    "static/media/FooterBanner.css": "/static/media/footer-banner.07c1f4d2.svg",
+    "static/media/language-logo.f910b4ff.svg": "/static/media/language-logo.f910b4ff.svg",
+    "static/media/play-button.c5ed7368.svg": "/static/media/play-button.c5ed7368.svg",
+    "static/media/WatchVideo.css": "/static/media/watch-video.f0f04c40.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce66f78c.js",
+    "static/js/2.28d83cc5.chunk.js",
+    "static/css/main.854bc733.chunk.css",
+    "static/js/main.f253ab0c.chunk.js"
+  ]
+}
