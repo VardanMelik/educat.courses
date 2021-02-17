@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    margin-top: 24px;
+    margin-left: 120px;
+    width: 204px;
+    height: 34px;
+}
+
+.language-logo {
+    display: flex;
+    margin-top: 20px;
+    margin-right: 152px;
+    width: 28px;
+    height: 28px;
+}

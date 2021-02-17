@@ -1,0 +1,36 @@
+.footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+}
+
+.footer__logo {
+    display: flex;
+    width: 204px;
+    height: 34px;
+    margin-left: 120px;
+    margin-bottom: 42.63px;
+}
+
+.footer-menu {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 48px;
+    margin-right: 120px;
+    margin-left: 600px;
+}
+
+.footer-menu a {
+    display: flex;
+    margin-right: 15px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 24px;
+    text-decoration: none;
+    /* identical to box height, or 160% */
+    text-align: right;
+    color: #000000;
+}
