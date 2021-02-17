@@ -1,0 +1,43 @@
+.footer__banner {
+    display: flex;
+    justify-content: center;
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-bottom: 72px;
+    margin-top: 168px;
+    width: 960px;
+    height: 168px;
+    background-image: url(../assets/footer-banner.svg);
+    background-repeat: no-repeat;
+}
+
+.footer__banner .description {
+    display: flex;
+    width: 343px;
+    height: 120px;
+    margin-left: 60px;
+    margin-right: 317px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 36px;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.footer__banner button {
+    width: 180px;
+    height: 48px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-right: 60px;
+    background: #FFFFFF;
+    border-radius: 6px;
+    border: none;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+}

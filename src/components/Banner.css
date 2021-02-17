@@ -1,0 +1,58 @@
+.banner {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.banner__title {
+    margin-left: 120px;
+    margin-top: 168px;
+}
+
+.banner__title span {
+    width: 660px;
+    height: 144px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 70px;
+    line-height: 72px;
+    /* or 103% */
+    color: #000000;
+}
+
+.banner__educat img {
+    width: 301px;
+    height: 456px;
+}
+
+.banner__menu {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    align-items: center;
+    margin-top: 24px;
+    /*width: 753px;
+    height: 24px;*/
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+    color: #000000;
+}
+
+.banner__menu p {}
+
+.start__lesson {
+    width: 286px;
+    height: 60px;
+    margin-top: 42px;
+    left: 120px;
+    top: 384px;
+    color: white;
+    background: #024FEB;
+    border-radius: 6px;
+    border: none;
+}

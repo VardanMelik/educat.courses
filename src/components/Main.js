@@ -1,14 +1,14 @@
 import React from 'react';
 import './Main.css';
+import LessonInfo from './LessonInfo';
+import CurseInfo from './CurseInfo';
 
 function Main() {
     return (
-        <div className="container">
-            <div className="main">
-                Main
-            </div>
-            
+        <div className="main">
+         <LessonInfo/>
         </div>
+            
     )
 }
 

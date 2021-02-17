@@ -1,0 +1,12 @@
+.who__can__apply {
+    margin-left: 120px;
+    margin-right: 120px;
+    width: 1200px;
+    height: 48px;
+    font-weight: normal;
+    font-size: 44px;
+    line-height: 48px;
+    /* identical to box height, or 109% */
+    text-align: center;
+    color: #19191A;
+}

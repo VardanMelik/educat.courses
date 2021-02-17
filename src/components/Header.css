@@ -18,3 +18,16 @@
     width: 28px;
     height: 28px;
 }
+
+.language__select {
+    border: none;
+}
+
+.language__select option {
+    width: 74px;
+    height: 64px;
+    left: 1246px;
+    top: 60px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 8px #CACBCC;
+}
