@@ -1,10 +1,8 @@
 .footer__banner {
     display: flex;
-    /*justify-content: center;*/
     margin-left: 240px;
     margin-right: 240px;
-    margin-bottom: 72px;
-    margin-top: 168px;
+    margin-top: 80px;
     width: 960px;
     height: 168px;
     background-image: url(../assets/footer-banner.svg);
