@@ -52,9 +52,14 @@
 .language-logo {
     display: flex;
     margin-top: 20px;
-    margin-right: 152px;
+    margin-right: 62px;
     width: 28px;
     height: 28px;
+    /*display: flex;
+    margin-top: 20px;
+    margin-right: 152px;
+    width: 28px;
+    height: 28px;*/
 }
 
 .language__select {
