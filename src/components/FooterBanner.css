@@ -1,6 +1,6 @@
 .footer__banner {
     display: flex;
-    justify-content: center;
+    /*justify-content: center;*/
     margin-left: 240px;
     margin-right: 240px;
     margin-bottom: 72px;

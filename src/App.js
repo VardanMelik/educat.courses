@@ -7,6 +7,7 @@ import WatchVideo from './components/WatchVideo';
 import WhoCanApply from './components/WhoCanApply';
 import FooterBanner from './components/FooterBanner';
 import FooterCurseInfo from './components/FooterCurseInfo';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <WhoCanApply/>
       <FooterCurseInfo/>
       <FooterBanner/>
+      <Footer/>
       
       
     </div>

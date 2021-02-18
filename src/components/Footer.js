@@ -8,13 +8,13 @@ function Footer() {
         <div className="container">
             <div className="footer">
 
-                <div className="footer-left">
+                <div className="footer__left">
                     <img className="footer__logo" src={Logo} alt="" />
                 </div>
 
                 
 
-                <div className="footer-right">
+                <div className="footer__right">
                     <div className="footer-menu">
                         <Link to="/contacts">
                             <span>Контакты</span>
