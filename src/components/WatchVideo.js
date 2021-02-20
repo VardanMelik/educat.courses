@@ -10,12 +10,12 @@ function WatchVideo() {
 
         
                 <img className="play__button" src={PlayButton} alt="" />
-                <p className="watch__title">Смотреть видео</p>
+                {/*<p className="watch__title">Смотреть видео</p>
                 <p className="watch__description">
                     В этом видео основатель онлайн-школы EDUCAT Александр Мазуркевич расскажет о курсе, 
                     о том какие перспективы ждут выпускников курса Full Stack, 
                     и опыте, который получит студент во время курса.
-                </p>
+                </p>*/}
     
             
             

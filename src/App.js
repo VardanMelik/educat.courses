@@ -16,11 +16,11 @@ function App() {
       <Header/>
       <Banner/>
       <Main/>
-      <CurseInfo/>
+      {/*<CurseInfo/>*/}
       <WatchVideo/>
-      <WhoCanApply/>
+      {/*<WhoCanApply/>
       <FooterCurseInfo/>
-      <FooterBanner/>
+      <FooterBanner/>*/}
       <Footer/>
       
       

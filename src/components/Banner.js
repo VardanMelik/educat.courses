@@ -8,7 +8,7 @@ function Banner() {
 
             <div className="banner__title">
 
-                <div>
+                <div className="title__mobile">
                     <span className="title">
                         Fullstack<br/> 
                         веб-разработчик

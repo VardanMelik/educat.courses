@@ -1,41 +1,3 @@
-/*@media only screen and (max-width: 480px) {}
-
-@media only screen and (max-width: 600px) {}
-
-@media only screen and (max-width: 768px) {}
-
-@media only screen and (max-width: 900px) {}
-
-@media only screen and (max-width: 1024px) {}*/
-
-@media only screen and (max-width: 1024px) {
-    .header {
-        display: flex;
-        width: 100%;
-        justify-content: space-between;
-    }
-    .logo {
-        display: flex;
-        margin-top: 26px;
-        margin-left: 16px;
-        width: 173px;
-        height: 29px;
-    }
-    .language-logo {
-        display: flex;
-        margin-top: 29px;
-        margin-left: 16px;
-        margin-right: 58px;
-        width: 57px;
-        height: 28px;
-    }
-    .language__select {
-        border: none;
-        margin-left: 10px;
-        -webkit-appearance: none;
-    }
-}
-
 .header {
     display: flex;
     justify-content: space-between;
@@ -80,4 +42,87 @@
     top: 60px;
     background: #FFFFFF;
     box-shadow: 0px 1px 8px #CACBCC;
+}
+
+
+/* Iphone 320x480 */
+
+@media only screen and (max-width: 320px) {
+    .header {
+        display: flex;
+        justify-content: space-between;
+    }
+    .logo {
+        display: flex;
+        margin-top: 26px;
+        margin-left: 16px;
+        width: 173px;
+        height: 29px;
+    }
+    .language-logo {
+        display: flex;
+        margin-top: 29px;
+        margin-right: 16px!important;
+        width: 57px;
+        height: 28px;
+    }
+    .language__select {
+        border: none;
+        margin-left: 10px;
+        -webkit-appearance: none;
+    }
+    /*.language__select::-ms-expand {
+        display: none;
+    }*/
+    .language__select option {
+        width: 74px;
+        height: 64px;
+        left: 1246px;
+        top: 60px;
+        background: #FFFFFF;
+        box-shadow: 0px 1px 8px #CACBCC;
+    }
+}
+
+
+/*@media screen and (max-width: 480px) {}
+
+iPhone 4 640x960
+@media screen and (max-width: 600px) {}
+
+@media screen and (max-width: 600px) {}
+
+@media screen and (max-width: 768px) {}
+
+@media screen and (max-width: 900px) {}*/
+
+
+/* Amazon Kindle Fire 1024x */
+
+@media only screen and (max-width: 1024px) {
+    .header {
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+    }
+    .logo {
+        display: flex;
+        margin-top: 26px;
+        margin-left: 16px;
+        width: 173px;
+        height: 29px;
+    }
+    .language-logo {
+        display: flex;
+        margin-top: 29px;
+        margin-left: 16px;
+        margin-right: 58px;
+        width: 57px;
+        height: 28px;
+    }
+    .language__select {
+        border: none;
+        margin-left: 10px;
+        -webkit-appearance: none;
+    }
 }

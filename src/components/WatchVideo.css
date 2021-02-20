@@ -48,3 +48,55 @@
     line-height: 24px;
     color: #FFFFFF;
 }
+
+
+/* Iphone 320x480 */
+
+@media only screen and (max-width: 320px) {
+    .watch__video {
+        position: relative;
+        margin-left: 16px;
+        margin-right: 16px;
+        width: 288px;
+        height: 161.79px;
+        background-size: 100%;
+        background-image: url(../assets/watch-video.svg);
+        background-repeat: no-repeat;
+    }
+    .play__button {
+        position: absolute;
+        margin-left: 177px;
+        margin-top: 41px;
+        margin-right: 41px;
+        margin-bottom: 50.79px;
+        width: 70px;
+        height: 70px;
+    }
+    .watch__title {
+        position: absolute;
+        margin-left: 630px;
+        margin-top: 168px;
+        margin-bottom: 348px;
+        width: 360px;
+        height: 24px;
+        font-size: 15px;
+        line-height: 24px;
+        /* identical to box height, or 160% */
+        letter-spacing: 0.3px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    .watch__description {
+        position: absolute;
+        margin-left: 540px;
+        margin-top: 264px;
+        margin-right: 60px;
+        margin-bottom: 156px;
+        width: 360px;
+        height: 120px;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 24px;
+        color: #FFFFFF;
+    }
+}
